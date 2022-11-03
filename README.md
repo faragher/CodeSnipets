@@ -7,3 +7,5 @@ This code is released into the public domain, although I'd always appreciate a t
 BindingButton.cs - Basic Unity Input rebinding. See https://docs.unity3d.com/Packages/com.unity.inputsystem@0.9/manual/Installation.html
 
 Good hunting.
+
+Note: Yes, I know I misspelled "Snippets." Frankly, I'm surprised I didn't misspell "Code."
